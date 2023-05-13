@@ -76,6 +76,8 @@ To install and set up the application, follow these steps:
      
      This should be enough for this app. Also a sample data.db file is already provide you can skip.
 
+9. To run the app type this command `flask run`
+
 ## Running Test Cases
 
 To run the test cases, follow these steps:
