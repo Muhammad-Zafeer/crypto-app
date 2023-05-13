@@ -69,9 +69,12 @@ To install and set up the application, follow these steps:
 8. Set up the database:
    - Initialize the database:
      `flask shell`
+     
      `from app import db`
+     
      `db.create_all()`
-     This should be enough for this app.
+     
+     This should be enough for this app. Also a sample data.db file is already provide you can skip.
 
 ## Running Test Cases
 
