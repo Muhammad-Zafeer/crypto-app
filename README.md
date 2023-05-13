@@ -10,7 +10,7 @@ This is a Flask application that provides API endpoints for managing cryptocurre
 4. [API Usage](#api-usage)
 5. [Generating RSA Keys](#generating-rsa-keys)
 6. [Installing HashiVault and Saving Private Key](#installing-hashivault-and-saving-private-key)
-7. [Docker](#docker-file)
+7. [Docker](#docker)
 
 ## Directory Structure
 
