@@ -10,24 +10,37 @@ This is a Flask application that provides API endpoints for managing cryptocurre
 4. [API Usage](#api-usage)
 5. [Generating RSA Keys](#generating-rsa-keys)
 6. [Installing HashiVault and Saving Private Key](#installing-hashivault-and-saving-private-key)
-7. Docker[#docker-file]
+7. [Docker](#docker-file)
 
 ## Directory Structure
 
 The directory structure of the project is as follows:
 ├── app
+
 │ ├── auth.py
+
 │ ├── config.py
+
 │ ├── data.db
+
 │ ├── **init**.py
+
 │ ├── models.py
+
 │ ├── routes.py
+
 │ └── utils.py
+
 ├── crypto
+
 │ ├── address.py
+
 │ └── **init**.py
+
 ├── run.py
+
 └── tests
+
 │ ├── test_app.py
 
 - `app/`: Contains the Flask application code, including authentication, configuration, models, routes, and utility functions.
