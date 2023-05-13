@@ -1,6 +1,7 @@
 # Flask Application
 
 This is a Flask application that provides API endpoints for managing cryptocurrency addresses for users.
+Supported Coins are Bitcoin and Ethereum.
 
 ## Table of Contents
 
