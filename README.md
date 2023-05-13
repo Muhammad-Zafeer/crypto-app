@@ -15,6 +15,7 @@ This is a Flask application that provides API endpoints for managing cryptocurre
 ## Directory Structure
 
 The directory structure of the project is as follows:
+
 ├── app
 
 │ ├── auth.py
